@@ -13,7 +13,7 @@ goPAS is a Go SDK for the CyberArk Privileged Access Security (PAS) REST API. It
 ## Installation
 
 ```bash
-go get github.com/cyberark/gopas
+go get github.com/chrisranney/gopas
 ```
 
 ## Quick Start
